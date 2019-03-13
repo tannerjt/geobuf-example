@@ -1,0 +1,21 @@
+{
+  "name": "client-test-geobuf",
+  "version": "0.0.1",
+  "description": "Testing GeoBuf with OL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel index.html",
+    "build": "parcel build --public-url . index.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "geobuf": "^3.0.1",
+    "ol": "^5.3.1",
+    "pbf": "^3.2.0"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.1"
+  }
+}

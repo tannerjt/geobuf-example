@@ -28,4 +28,4 @@ $ npm start
 
 Then navigate to [http://localhost:1234/](http://localhost:1234/)
 
-![Performance Screenshot][screenshot.png]
+![Performance Screenshot][https://github.com/tannerjt/geobuf-example/blob/master/screenshot.png?raw=true]

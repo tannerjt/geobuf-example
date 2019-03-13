@@ -4,7 +4,7 @@ This example uses [mapbox/geobuf](https://github.com/mapbox/geobuf), a compact b
 
 The purpose of this example is to illustrate how large datasets can be efficiently compacted and served over HTTP.  
 
-The original dataset I am using is a `15 MB` shapefile representing Oregon census tracts [available here](ftp://ftp2.census.gov/geo/pvs/tiger2010st/41_Oregon/41/).  When converted to GeoJSON, the file is `26.7 MB` in size.  Converting to a `protocol buffer` brings the size down to `3.3 MB`.  When compressed through `gzip`, the resulting file size is `3.1 MB`.
+The original dataset I am using is a `15 MB` shapefile representing Oregon census tracts (ftp://ftp2.census.gov/geo/pvs/tiger2010st/41_Oregon/41/tl_2010_41_tract10.zip).  When converted to GeoJSON, the file is `26.7 MB` in size.  Converting to a `protocol buffer` brings the size down to `3.3 MB`.  When compressed through `gzip`, the resulting file size is `3.1 MB`.
 
 ## Running this example
 

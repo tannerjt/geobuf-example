@@ -1,6 +1,6 @@
 ## Example GeoBuf
 
-This example uses [mapbox/geobuf](https://github.com/mapbox/geobuf), a compact binary encoding for geographic data to server and consume GeoJSON data in [protocol buffers](https://developers.google.com/protocol-buffers/).
+This example uses [mapbox/geobuf](https://github.com/mapbox/geobuf), a compact binary encoding for geographic data to serve and consume GeoJSON data in [protocol buffers](https://developers.google.com/protocol-buffers/).
 
 The purpose of this example is to illustrate how large datasets can be efficiently compacted and served over HTTP.  
 

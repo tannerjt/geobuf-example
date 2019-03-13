@@ -27,3 +27,5 @@ $ npm start
 ```
 
 Then navigate to [http://localhost:1234/](http://localhost:1234/)
+
+![Performance Screenshot][screenshot.png]
